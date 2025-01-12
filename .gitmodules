@@ -24,4 +24,4 @@
 	url = https://github.com/sterin/_pyabc.git
 [submodule "super_prove"]
 	path = super_prove
-	url = https://github.com/berkeley-abc/super_prove.git
+	url = https://github.com/gipsyh/super_prove.git
